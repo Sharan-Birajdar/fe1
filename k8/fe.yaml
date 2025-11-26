@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: vipinde/galactic-airlines-frontend:k1
+          image: sharanbirajdar/fe:v1
           ports:
             - containerPort: 80
 ---
